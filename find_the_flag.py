@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 import re, os
 i = 0
 f_check = True

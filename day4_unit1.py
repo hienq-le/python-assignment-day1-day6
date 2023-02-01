@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 import urllib.request
 import os, re
 input_url = 'https://en.wikipedia.org/wiki/Tenterfield,_New_South_Wales'

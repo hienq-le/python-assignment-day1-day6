@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 import re, pandas, argparse, os, yaml, subprocess
 list_of_json_files = []
 list_of_yaml_files = []

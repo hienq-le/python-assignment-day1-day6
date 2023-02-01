@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 import re
 credit_card_number = 0
 credit_card_number_in_string_type = None

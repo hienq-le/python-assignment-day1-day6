@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 import re, pandas, argparse, os, yaml
 file_name = None
 file_name2 = None

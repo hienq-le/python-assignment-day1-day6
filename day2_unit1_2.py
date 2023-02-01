@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 nums = []
 tmp_nums = []
 input_number = 0

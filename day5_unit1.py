@@ -1,4 +1,3 @@
-# Made by Le Quoc Hien with F-Soft account of HienLQ
 import requests, re, csv, pandas
 from parsel import Selector
 input_url = 'https://www.cisa.gov/uscert/ncas/alerts'
